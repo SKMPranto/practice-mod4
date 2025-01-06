@@ -42,6 +42,12 @@ input[type="reset"]{
     border: 2px solid rgb(30, 255, 0);
     border-radius: 7px;
 }
+#dropdown{
+    margin-top: 10px;
+}
+#fieldset{
+    margin-top: 10px;
+}
 
 
 
