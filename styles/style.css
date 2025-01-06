@@ -47,6 +47,7 @@ input[type="reset"]{
 }
 #fieldset{
     margin-top: 10px;
+    width: 500px;
 }
 
 
