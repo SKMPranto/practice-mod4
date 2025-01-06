@@ -1,5 +1,5 @@
 img {
-  width: 500px;
+  width: 100%;
   display: block;
   border-radius: 10px;
   margin-top: 10px;
@@ -77,4 +77,9 @@ th {
 table {
   margin-left: auto;
   margin-right: auto;
+}
+thead,
+h1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
